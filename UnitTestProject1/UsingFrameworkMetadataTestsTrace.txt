@@ -1,0 +1,276 @@
+﻿"testhost.x86.exe" (CLR v4.0.30319: DefaultDomain): "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: DefaultDomain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\testhost.x86.exe" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CoreUtilities.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.PlatformAbstractions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CrossPlatEngine.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CommunicationUtilities.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.Common.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Newtonsoft.Json.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.TestPlatform.Extensions.EventLogCollector.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.CodedWebTestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.TmiAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.QualityTools.Common.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.GenericTestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.OrderedTestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.QualityTools.UnitTestFramework\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.WebTestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.ComInterfaces.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.CppUnitTestExtension.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.Composition\v4.0_4.0.0.0__b77a5c561934e089\System.ComponentModel.Composition.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorderCollector.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.TraceDataCollector.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.ArchitectureTools.PEReader.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.IntelliTrace.Core.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\Microsoft.VisualStudio.UwpTestHostRuntimeProvider.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.UwpTestHostRuntimeProvider.Deployment.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\MICROSOFT\PYTHON\CORE\Microsoft.PythonTools.TestAdapter.Executor.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\MICROSOFT\PYTHON\CORE\Microsoft.PythonTools.Ipc.Json.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\TESTEXPLORER\Microsoft.VisualStudio.CMake.TestProvider.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ValueTuple\v4.0_4.0.0.0__cc7b13ffcd2ddd51\System.ValueTuple.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\TESTEXPLORER\libcmake.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TTZ1FOSV.ILT\PowerShellTools.TestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\TESTEXPLORER\Microsoft.VisualStudio.TestWindow.Interfaces.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Management.Automation\v4.0_3.0.0.0__31bf3856ad364e35\System.Management.Automation.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\assembly\GAC\Microsoft.VisualStudio.Shell.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Shell.Interop.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.TestFramework.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Reflection\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IO\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.IO.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Extensions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+Ausnahme ausgelöst: "System.ArgumentException" in System.dll
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Linq\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Linq.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.ReaderWriter\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Xml.ReaderWriter.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: Domain 2): "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.PlatformAbstractions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CoreUtilities.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: Domain 2): "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.PlatformAbstractions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Framework Version String Domain): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CoreUtilities.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: Domain 3): "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.PlatformAbstractions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Reflection\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Extensions.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Globalization\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Globalization.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Globalization\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Globalization.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IO\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.IO.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\UnitTestProject1.dll" geladen. Symbole wurden geladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Linq\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Linq.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Reflection.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.Extensions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Framework\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\UsingFrameworkMetadata.dll" geladen. Symbole wurden geladen.
+SamplesTest.Start
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Diagnostics\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Diagnostics.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\assembly\GAC_MSIL\Microsoft.Practices.Unity\1.2.0.0__31bf3856ad364e35\Microsoft.Practices.Unity.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\assembly\GAC_MSIL\Microsoft.Practices.ObjectBuilder2\2.2.0.0__31bf3856ad364e35\Microsoft.Practices.ObjectBuilder2.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CoreUtilities.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Utilities\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Utilities.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Config\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Config.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Licensing\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Licensing.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.CompositeExtensions.Unity\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.CompositeExtensions.Unity.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data.ActDb\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.ActDb.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data.Resources\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.Resources.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Data.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Windows.Forms\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Windows.Forms.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.LicProvider\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.LicProvider.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Win32\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Win32.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Core.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+Ausnahme ausgelöst: "System.InvalidOperationException" in System.Core.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Runtime.Serialization.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+Ausnahme ausgelöst: "System.Xml.XmlException" in System.Runtime.Serialization.dll
+Ausnahme ausgelöst: "System.Xml.XmlException" in System.Runtime.Serialization.dll
+Ausnahme ausgelöst: "System.Xml.XmlException" in System.Runtime.Serialization.dll
+Ausnahme ausgelöst: "System.Xml.XmlException" in System.Runtime.Serialization.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Framework.Synchronization\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.Synchronization.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Samples.Start
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+Ausnahme ausgelöst: "System.IO.FileNotFoundException" in mscorlib.dll
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Collections\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Collections.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_de_b77a5c561934e089\mscorlib.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+Der Thread 0x23fc hat mit Code 0 (0x0) geendet.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+Samples.GetContactFieldDescriptors: 58
+Samples.ContactFieldDescriptor: CREATEUSERNAME, Record Creator, TBL_CONTACT.CREATEUSERNAME
+Samples.ContactFieldDescriptor: EDITUSERNAME, Last Edited By, TBL_CONTACT.EDITUSERNAME
+Samples.ContactFieldDescriptor: MANAGERUSERNAME, Record Manager, TBL_CONTACT.MANAGERUSERNAME
+Samples.ContactFieldDescriptor: MIDDLENAME, Zweiter Name, TBL_CONTACT.MIDDLENAME
+Samples.ContactFieldDescriptor: BUSINESS_CITY, Stadt, TBL_CONTACT.BUSINESS_CITY
+Samples.ContactFieldDescriptor: USER10, Benutzer 10, TBL_CONTACT.USER10
+Samples.ContactFieldDescriptor: PAGER_PHONE, Pager Nummer, TBL_CONTACT.PAGER_PHONE
+Samples.ContactFieldDescriptor: SPOUSENAME, Ehepartner, TBL_CONTACT.SPOUSENAME
+Samples.ContactFieldDescriptor: BUSINESS_SUFFIX, Durchwahl, TBL_CONTACT.BUSINESS_SUFFIX
+Samples.ContactFieldDescriptor: JOBTITLE, Titel, TBL_CONTACT.JOBTITLE
+Samples.ContactFieldDescriptor: FAX_SUFFIX, Fax Durchwahl, TBL_CONTACT.FAX_SUFFIX
+Samples.ContactFieldDescriptor: USER7, Benutzer 7, TBL_CONTACT.USER7
+Samples.ContactFieldDescriptor: USER6, Benutzer 6, TBL_CONTACT.USER6
+Samples.ContactFieldDescriptor: USER5, Benutzer 5, TBL_CONTACT.USER5
+Samples.ContactFieldDescriptor: USER4, Benutzer 4, TBL_CONTACT.USER4
+Samples.ContactFieldDescriptor: USER3, Benutzer 3, TBL_CONTACT.USER3
+Samples.ContactFieldDescriptor: USER2, Benutzer 2, TBL_CONTACT.USER2
+Samples.ContactFieldDescriptor: USER1, Benutzer 1, TBL_CONTACT.USER1
+Samples.ContactFieldDescriptor: BUSINESS_EMAIL, E-Mail, TBL_CONTACT.BUSINESS_EMAIL
+Samples.ContactFieldDescriptor: USER9, Benutzer 9, TBL_CONTACT.USER9
+Samples.ContactFieldDescriptor: USER8, Benutzer 8, TBL_CONTACT.USER8
+Samples.ContactFieldDescriptor: NAMESUFFIX, Namensuffix, TBL_CONTACT.NAMESUFFIX
+Samples.ContactFieldDescriptor: BUSINESS_LINE3, Adresse 3, TBL_CONTACT.BUSINESS_LINE3
+Samples.ContactFieldDescriptor: HOME_LINE2, Adresse 2 Privat, TBL_CONTACT.HOME_LINE2
+Samples.ContactFieldDescriptor: ALTERNATE_PHONE, Alternative Telefonnummer, TBL_CONTACT.ALTERNATE_PHONE
+Samples.ContactFieldDescriptor: HOME_PHONE, Telefon Privat, TBL_CONTACT.HOME_PHONE
+Samples.ContactFieldDescriptor: INSTANTMSGID, Messenger ID, TBL_CONTACT.INSTANTMSGID
+Samples.ContactFieldDescriptor: REFERREDBY, Empfohlen von, TBL_CONTACT.REFERREDBY
+Samples.ContactFieldDescriptor: LASTRESULTS, Letzte Ergebnisse, TBL_CONTACT.LASTRESULTS
+Samples.ContactFieldDescriptor: NAMEPREFIX, Namenspräfix, TBL_CONTACT.NAMEPREFIX
+Samples.ContactFieldDescriptor: PAGER_SUFFIX, Pager Durchwahl, TBL_CONTACT.PAGER_SUFFIX
+Samples.ContactFieldDescriptor: DEPARTMENT, Abteilung, TBL_CONTACT.DEPARTMENT
+Samples.ContactFieldDescriptor: HOME_POSTALCODE, PLZ Privat, TBL_CONTACT.HOME_POSTALCODE
+Samples.ContactFieldDescriptor: BUSINESS_POSTALCODE, PLZ, TBL_CONTACT.BUSINESS_POSTALCODE
+Samples.ContactFieldDescriptor: HOME_SUFFIX, Durchwahl Privat, TBL_CONTACT.HOME_SUFFIX
+Samples.ContactFieldDescriptor: HOME_LINE3, Adresse 3 Privat, TBL_CONTACT.HOME_LINE3
+Samples.ContactFieldDescriptor: MOBILE_PHONE, Handy Nummer, TBL_CONTACT.MOBILE_PHONE
+Samples.ContactFieldDescriptor: FAX_PHONE, Fax, TBL_CONTACT.FAX_PHONE
+Samples.ContactFieldDescriptor: BUSINESS_STATE, Bundesland\Kanton, TBL_CONTACT.BUSINESS_STATE
+Samples.ContactFieldDescriptor: HOME_CITY, Stadt Privat, TBL_CONTACT.HOME_CITY
+Samples.ContactFieldDescriptor: ALTERNATE_SUFFIX, Alternative Durchwahl, TBL_CONTACT.ALTERNATE_SUFFIX
+Samples.ContactFieldDescriptor: HOME_LINE1, Adresse 1 Privat, TBL_CONTACT.HOME_LINE1
+Samples.ContactFieldDescriptor: BUSINESS_LINE2, Adresse 2, TBL_CONTACT.BUSINESS_LINE2
+Samples.ContactFieldDescriptor: BUSINESS_LINE1, Adresse 1, TBL_CONTACT.BUSINESS_LINE1
+Samples.ContactFieldDescriptor: BUSINESS_COUNTRYNAME, Land, TBL_CONTACT.BUSINESS_COUNTRYNAME
+Samples.ContactFieldDescriptor: FULLNAME, Kontakt, TBL_CONTACT.FULLNAME
+Samples.ContactFieldDescriptor: MOBILE_SUFFIX, Handy Durchwahl, TBL_CONTACT.MOBILE_SUFFIX
+Samples.ContactFieldDescriptor: HOME_STATE, Bundestaat, TBL_CONTACT.HOME_STATE
+Samples.ContactFieldDescriptor: BUSINESS_PHONE, Telefon, TBL_CONTACT.BUSINESS_PHONE
+Samples.ContactFieldDescriptor: CATEGORY, ID/Status, TBL_CONTACT.CATEGORY
+Samples.ContactFieldDescriptor: SALUTATION, Anrede, TBL_CONTACT.SALUTATION
+Samples.ContactFieldDescriptor: PERSONAL_EMAIL, Private E-Mail, TBL_CONTACT.PERSONAL_EMAIL
+Samples.ContactFieldDescriptor: COMPANYNAME, Firma, TBL_CONTACT.COMPANYNAME
+Samples.ContactFieldDescriptor: LASTNAME, Nachname, TBL_CONTACT.LASTNAME
+Samples.ContactFieldDescriptor: FIRSTNAME, Vorname, TBL_CONTACT.FIRSTNAME
+Samples.ContactFieldDescriptor: CONTACTWEBADDRESS, Webseite, TBL_CONTACT.CONTACTWEBADDRESS
+Samples.ContactFieldDescriptor: HOME_COUNTRYNAME, Land Privat, TBL_CONTACT.HOME_COUNTRYNAME
+Samples.ContactFieldDescriptor: ACCESS_LEVEL, Zugriffsberechtigung, VWT_CONTACT_ACCESS.ACCESS_LEVEL
+Samples.Stop: 0
+SamplesTest.Stop
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Resources.ResourceManager\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Resources.ResourceManager.dll" geladen. PDB-Datei wurde nicht gefunden oder konnte nicht geöffnet werden.
+"testhost.x86.exe" (CLR v4.0.30319: testhost.x86.exe): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\packages\MSTest.TestAdapter.1.2.1\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" geladen. Das Modul wurde ohne Symbole erstellt.
+"testhost.x86.exe" (CLR v4.0.30319: Domain 3): "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.PlatformAbstractions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Reflection\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Extensions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Globalization\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Globalization.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IO\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.IO.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\UnitTestProject1.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Linq\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Linq.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Reflection.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.Extensions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Threading.Tasks\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.Tasks.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Framework\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Users\OLeier\Documents\Visual Studio 2017\Projects\ContactNameControl\UnitTestProject1\bin\Debug\UsingFrameworkMetadata.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Diagnostics\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Diagnostics.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\assembly\GAC_MSIL\Microsoft.Practices.Unity\1.2.0.0__31bf3856ad364e35\Microsoft.Practices.Unity.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\assembly\GAC_MSIL\Microsoft.Practices.ObjectBuilder2\2.2.0.0__31bf3856ad364e35\Microsoft.Practices.ObjectBuilder2.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Microsoft.TestPlatform.CoreUtilities.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Utilities\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Utilities.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Config\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Config.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Licensing\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Licensing.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.CompositeExtensions.Unity\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.CompositeExtensions.Unity.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data.ActDb\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.ActDb.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Data.Resources\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Data.Resources.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Windows.Forms\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Windows.Forms.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Data.resources.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.LicProvider\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.LicProvider.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Win32\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Win32.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Core.resources.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization.resources\v4.0_4.0.0.0_de_b77a5c561934e089\System.Runtime.Serialization.resources.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Framework.Synchronization\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.Synchronization.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Act.Shared.Collections\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Collections.dll" wurde entladen.
+"testhost.x86.exe" (CLR v4.0.30319: TestSourceHost: Enumering assembly): "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll" wurde entladen.
+Der Thread 0x1f30 hat mit Code 0 (0x0) geendet.
+Der Thread 0x1324 hat mit Code 0 (0x0) geendet.
+Das Programm "[3060] testhost.x86.exe" wurde mit Code 0 (0x0) beendet.
