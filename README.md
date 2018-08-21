@@ -1,6 +1,5 @@
 # Act.Samples
-
-CRM Software Act![1]
+Beispiele zu der CRM Software Act![1]
 
 Die meisten Beispiele sind dem Act-v20.1-SDK[2] entnommen.<br/>
 Das Binding Beispiel stammt aus dem MSDN.<br/>
