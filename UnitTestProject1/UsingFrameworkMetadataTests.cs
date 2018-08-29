@@ -13,14 +13,16 @@ namespace Act.Samples.Tests
 			Trace.WriteLine("SamplesTest.Start");
 			Trace.Flush();
 
-			ActFramework framework = new ActFramework();
-			//framework.LogOn("CHuffman", "password", "localhost", "MyDatabase");
-			framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+			using (ActFramework framework = new ActFramework())
+			{
+				//framework.LogOn("CHuffman", "password", "localhost", "MyDatabase");
+				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
 
-			UsingFrameworkMetadata usingFrameworkMetadata = new UsingFrameworkMetadata(framework);
-			int count = usingFrameworkMetadata.Samples();
-			Assert.AreEqual<int>(0, count, "count <> 0");
-			//Assert.Fail();
+				UsingFrameworkMetadata usingFrameworkMetadata = new UsingFrameworkMetadata(framework);
+				int count = usingFrameworkMetadata.Samples();
+				Assert.AreEqual<int>(0, count, "count <> 0");
+				//Assert.Fail();
+			}
 			Trace.WriteLine("SamplesTest.Stop");
 		}
 	}

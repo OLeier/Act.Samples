@@ -9,14 +9,16 @@ namespace Act.Samples.Tests
 		[TestMethod()]
 		public void SamplesTest()
 		{
-			ActFramework framework = new ActFramework();
-			framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+			using (ActFramework framework = new ActFramework())
+			{
+				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
 
-			GettingaContactList gettingaContactList = new GettingaContactList(framework);
-			int count = gettingaContactList.Samples();
-			Assert.AreEqual<int>(1, count, "count <> 1");
+				GettingaContactList gettingaContactList = new GettingaContactList(framework);
+				int count = gettingaContactList.Samples();
+				Assert.AreEqual<int>(1, count, "count <> 1");
 
-			//Assert.Fail();
+				//Assert.Fail();
+			}
 		}
 	}
 }

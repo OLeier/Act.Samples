@@ -2,12 +2,14 @@
 using Act.Framework.ComponentModel;
 using Act.Framework.Contacts;
 using Act.Shared.Collections;
+using System;
 using System.ComponentModel;
 
 namespace Act.Samples
 {
 	public class GettingaContactList
 	{
+		[CLSCompliant(false)]
 		public GettingaContactList(ActFramework framework)
 		{
 			this.framework = framework;
