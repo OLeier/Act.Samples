@@ -15,7 +15,7 @@ namespace Act.Samples.Tests
 
 				GettingaContactList gettingaContactList = new GettingaContactList(framework);
 				int count = gettingaContactList.Samples();
-				Assert.AreEqual<int>(1, count, "count <> 1");
+				Assert.AreEqual<int>(3, count, "count <> 3");
 
 				//Assert.Fail();
 			}

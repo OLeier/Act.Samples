@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Allgemein", "Allgemein", "{
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEntitiesSamples", "CustomEntitiesSamples\CustomEntitiesSamples.csproj", "{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,7 +72,7 @@ Global
 		SolutionGuid = {0FED069B-470C-4A6B-8886-923A79D62342}
 	EndGlobalSection
 	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 8
+		SccNumberOfProjects = 9
 		SccLocalPath0 = .
 		SccProjectUniqueName1 = ContactNameControl\\ContactNameControl.csproj
 		SccLocalPath1 = .
@@ -89,5 +95,8 @@ Global
 		SccProjectUniqueName7 = CodeSamples\\CodeSamples.csproj
 		SccLocalPath7 = .
 		SccProjectFilePathRelativizedFromConnection7 = CodeSamples\\
+		SccProjectUniqueName8 = CustomEntitiesSamples\\CustomEntitiesSamples.csproj
+		SccLocalPath8 = .
+		SccProjectFilePathRelativizedFromConnection8 = CustomEntitiesSamples\\
 	EndGlobalSection
 EndGlobal

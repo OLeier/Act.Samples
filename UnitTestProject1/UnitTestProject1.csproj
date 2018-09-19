@@ -48,6 +48,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.Framework\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.dll</HintPath>
     </Reference>
+    <Reference Include="Act.Shared.Collections" />
     <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\MSTest.TestFramework.1.2.1\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
     </Reference>
@@ -59,6 +60,7 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomEntitiesSamplesTests.cs" />
     <Compile Include="GettingaContactListTests.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="SearcherTests.cs" />
@@ -74,6 +76,14 @@
     <ProjectReference Include="..\BindingExamples\BindingExamples.csproj">
       <Project>{B7CF865B-3716-4531-96B6-51F48821AFC6}</Project>
       <Name>BindingExamples</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeSamples\CodeSamples.csproj">
+      <Project>{C8E65279-9197-4638-A61A-0BAF50DFE561}</Project>
+      <Name>CodeSamples</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CustomEntitiesSamples\CustomEntitiesSamples.csproj">
+      <Project>{ffdddfe5-e306-490c-a48b-1c22dafabf70}</Project>
+      <Name>CustomEntitiesSamples</Name>
     </ProjectReference>
     <ProjectReference Include="..\GettingaContactList\GettingaContactList.csproj">
       <Project>{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}</Project>

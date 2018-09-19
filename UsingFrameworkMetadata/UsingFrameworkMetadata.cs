@@ -48,6 +48,11 @@ namespace Act.Samples
 				contactField = fields[i];
 				Trace.WriteLine("Samples.ContactFieldDescriptor: " + contactField.ColumnName + ", " + contactField.DisplayName + ", " + contactField.Name);
 
+				if (contactField.ColumnName == "CUST_Klassifizierung_121244260")
+				{
+					Trace.WriteLine("Samples.ContactFieldDescriptor.TableName: " + contactField.TableName);
+				}
+
 				// make sure we can modify this field
 				if (!contactField.IsReadOnly)
 				{

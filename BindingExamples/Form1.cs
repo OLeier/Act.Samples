@@ -5,7 +5,12 @@ using System.Windows.Forms;
 
 namespace Msdn.BindingExamples
 {
-
+	/// <summary>
+	/// Form1
+	/// </summary>
+	/// <remarks>
+	/// https://docs.microsoft.com/de-de/dotnet/api/system.windows.forms.binding?view=netframework-4.7.2
+	/// </remarks>
 	public class Form1 : System.Windows.Forms.Form
 	{
 		private System.ComponentModel.Container components;

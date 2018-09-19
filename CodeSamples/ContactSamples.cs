@@ -55,7 +55,7 @@ namespace Act.CodeSamples
 			ArrayList customFieldArray = new ArrayList();
 			ContactFieldDescriptor[] cfdList = ACTFM.Contacts.GetContactFieldDescriptors();
 			ContactFieldDescriptor cfd;
-			Table tContact = null;
+			Table tContact;
 			Column col;
 			for (int i = 0; i < cfdList.Length; i++)
 			{
@@ -64,7 +64,10 @@ namespace Act.CodeSamples
 				col = (Column)tContact.ColumnByDisplayName[cfd.DisplayName];
 				if (col != null)
 				{
-					if (col.IsCustom) customFieldArray.Add(col.Name);
+					if (col.IsCustom)
+					{
+						customFieldArray.Add(col.Name);
+					}
 				}
 			}
 			return customFieldArray;
@@ -75,11 +78,12 @@ namespace Act.CodeSamples
 		/// </summary>
 		/// <remarks>
 		/// Inserting a secondary contact
-		/// This sample inserts a secondary contact into MyRecord in an Act! database.The sample shows the following tasks:
-		/// Getting MyRecord
-		/// Using the SDK to retrieve the list of all secondary contacts for MyRecord.
-		/// Using an implementation of IBindingList interface to add a new secondary contact to MyRecord and set properties.
-		/// After adding all properties, updating the secondary contact in the Act! database
+		/// This sample inserts a secondary contact into MyRecord in an Act! database.
+		/// The sample shows the following tasks:
+		/// - Getting MyRecord
+		/// - Using the SDK to retrieve the list of all secondary contacts for MyRecord.
+		/// - Using an implementation of IBindingList interface to add a new secondary contact to MyRecord and set properties.
+		/// - After adding all properties, updating the secondary contact in the Act! database
 		/// </remarks>
 		private void InsertSecondaryContact()
 		{
