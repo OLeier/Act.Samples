@@ -114,8 +114,9 @@ namespace Act.Samples
 			{
 				if (listManager.Count > 0 && listManager.Position > -1)
 				{
-					Contact currentContact = listManager.Current as Contact;
-					if (currentContact != null)
+					//Contact currentContact = listManager.Current as Contact;	// IDE0019: Musterabgleich verwenden
+					//if (currentContact != null)
+					if (listManager.Current is Contact currentContact)
 					{
 						base.Text = currentContact.FullName;
 					}

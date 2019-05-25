@@ -10,7 +10,7 @@ namespace Act.Samples.Tests
 		[TestMethod()]
 		public void SamplesTest()
 		{
-			Trace.WriteLine("SamplesTest.Start");
+			Trace.WriteLine("UsingFrameworkMetadataTests.SamplesTest.Start");
 			Trace.Flush();
 
 			using (ActFramework framework = new ActFramework())
@@ -23,7 +23,7 @@ namespace Act.Samples.Tests
 				Assert.AreEqual<int>(0, count, "count <> 0");
 				//Assert.Fail();
 			}
-			Trace.WriteLine("SamplesTest.Stop");
+			Trace.WriteLine("UsingFrameworkMetadataTests.SamplesTest.Stop");
 		}
 	}
 }

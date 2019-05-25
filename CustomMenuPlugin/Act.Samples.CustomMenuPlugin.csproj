@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B78F4ECB-5016-4C50-8282-20E064C10199}</ProjectGuid>
+    <ProjectGuid>{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ContactNameControl</RootNamespace>
-    <AssemblyName>ContactNameControl</AssemblyName>
+    <RootNamespace>Act.Samples.CustomMenuPlugin</RootNamespace>
+    <AssemblyName>Act.Samples.CustomMenuPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
@@ -38,20 +38,17 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.Framework\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.dll</HintPath>
     </Reference>
-    <Reference Include="Act.Framework.ComponentModel.Core, Version=20.1.120.0, Culture=neutral, PublicKeyToken=ebf6b2ff4d0a08aa, processorArchitecture=MSIL">
+    <Reference Include="Act.UI, Version=20.1.120.0, Culture=neutral, PublicKeyToken=ebf6b2ff4d0a08aa, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.Framework.ComponentModel.Core\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Framework.ComponentModel.Core.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.UI\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Act.Shared.Collections, Version=20.1.120.0, Culture=neutral, PublicKeyToken=ebf6b2ff4d0a08aa, processorArchitecture=MSIL">
+    <Reference Include="Act.UI.Core, Version=20.1.120.0, Culture=neutral, PublicKeyToken=ebf6b2ff4d0a08aa, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.Shared.Collections\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.Collections.dll</HintPath>
-    </Reference>
-    <Reference Include="Act.Shared.ComponentModel, Version=20.1.120.0, Culture=neutral, PublicKeyToken=ebf6b2ff4d0a08aa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.Shared.ComponentModel\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.Shared.ComponentModel.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Act.UI.Core\v4.0_20.1.120.0__ebf6b2ff4d0a08aa\Act.UI.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -61,14 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="ContactNameControl.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="CustomMenuPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Historie.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

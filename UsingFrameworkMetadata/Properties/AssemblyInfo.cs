@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IB-Leier.net")]
 [assembly: AssemblyProduct("UsingFrameworkMetadata")]
-[assembly: AssemblyCopyright("Copyright © IB-Leier.net 2018")]
+[assembly: AssemblyCopyright("Copyright © Act-v20.1-SDK, IB-Leier.net 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

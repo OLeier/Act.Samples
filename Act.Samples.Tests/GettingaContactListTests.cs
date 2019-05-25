@@ -1,5 +1,7 @@
-﻿using Act.Framework;
+﻿using Act.Samples;
+using Act.Framework;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Diagnostics;
 
 namespace Act.Samples.Tests
 {
@@ -9,16 +11,18 @@ namespace Act.Samples.Tests
 		[TestMethod()]
 		public void SamplesTest()
 		{
+			Trace.WriteLine("GettingaContactListTests.SamplesTest-Start");
 			using (ActFramework framework = new ActFramework())
 			{
 				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
 
 				GettingaContactList gettingaContactList = new GettingaContactList(framework);
 				int count = gettingaContactList.Samples();
-				Assert.AreEqual<int>(3, count, "count <> 3");
+				Assert.AreEqual<int>(4, count, "count <> 4");
 
 				//Assert.Fail();
 			}
+			Trace.WriteLine("GettingaContactListTests.SamplesTest-Stop");
 		}
 	}
 }
