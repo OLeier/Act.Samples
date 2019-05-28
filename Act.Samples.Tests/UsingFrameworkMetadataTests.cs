@@ -1,4 +1,5 @@
 ﻿using Act.Framework;
+using Act.Samples.Tests.Properties;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
 
@@ -16,7 +17,7 @@ namespace Act.Samples.Tests
 			using (ActFramework framework = new ActFramework())
 			{
 				//framework.LogOn("CHuffman", "password", "localhost", "MyDatabase");
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 
 				UsingFrameworkMetadata usingFrameworkMetadata = new UsingFrameworkMetadata(framework);
 				int count = usingFrameworkMetadata.Samples();

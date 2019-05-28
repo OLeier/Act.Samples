@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IBLeier.CustomEntitiesSamples.Tests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="userName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TestUser</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test-user</Value>
+    </Setting>
+    <Setting Name="databaseHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="databaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ActTestDb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

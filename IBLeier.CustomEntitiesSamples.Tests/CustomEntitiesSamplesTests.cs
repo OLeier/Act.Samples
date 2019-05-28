@@ -4,6 +4,7 @@ using Act.Framework.Contacts;
 using Act.Framework.CustomEntities;
 using Act.Framework.Database;
 using Act.Framework.MutableEntities;
+using IBLeier.CustomEntitiesSamples.Tests.Properties;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Diagnostics;
@@ -23,7 +24,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 		{
 			using (ActFramework framework = new ActFramework())
 			{
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 
 				IbolManagerBase ibolManagerBase = new IbolManagerBase(framework);
 				ibolManagerBase.DeleteCustomEntity(IbolTests.IbolTableName);
@@ -35,7 +36,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 		{
 			using (ActFramework framework = new ActFramework())
 			{
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 
 				IbolManagerBase ibolManagerBase = new IbolManagerBase(framework);
 				CustomEntityDescriptor descriptor = ibolManagerBase.GetCustomEntityDescriptor(IbolTests.IbolTableName, (int)ParentEntity.Contacts);
@@ -48,7 +49,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 		{
 			using (ActFramework framework = new ActFramework())
 			{
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 
 				IbolManagerBase ibolManagerBase = new IbolManagerBase(framework);
 				CustomEntityDescriptor descriptor = ibolManagerBase.GetCustomEntityDescriptor(IbolTests.IbolTableName, (int)ParentEntity.Contacts);
@@ -72,7 +73,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 			using (ActFramework framework = new ActFramework())
 			{
 				Trace.WriteLine("GetFieldDescriptorTest - start");
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 				Trace.WriteLine("GetFieldDescriptorTest - LogOn");
 
 				IbolTestsManager manager = new IbolTestsManager(framework);
@@ -99,7 +100,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 			using (ActFramework framework = new ActFramework())
 			{
 				Trace.WriteLine("GetCustomSubEntitiesTest - start");
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 				Trace.WriteLine("GetCustomSubEntitiesTest - LogOn");
 
 				IbolTestsManager manager = new IbolTestsManager(framework);
@@ -214,7 +215,7 @@ namespace IBLeier.CustomEntitiesSamples.Tests
 			using (ActFramework framework = new ActFramework())
 			{
 				Trace.WriteLine("CreateCustomEntityTest - start");
-				framework.LogOn("TestUser", "test-user", "localhost", "ActTestDb");
+				framework.LogOn(Settings.Default.userName, Settings.Default.password, Settings.Default.databaseHost, Settings.Default.databaseName);
 				Trace.WriteLine("CreateCustomEntityTest - LogOn");
 
 				IbolTestsManager manager = new IbolTestsManager(framework);
