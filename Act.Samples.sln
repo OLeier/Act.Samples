@@ -3,17 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.ContactNameControl", "ContactNameControl\Act.Samples.ContactNameControl.csproj", "{B78F4ECB-5016-4C50-8282-20E064C10199}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.CustomMenuPlugin", "CustomMenuPlugin\Act.Samples.CustomMenuPlugin.csproj", "{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.UsingFrameworkMetadata", "UsingFrameworkMetadata\Act.Samples.UsingFrameworkMetadata.csproj", "{798C547E-708F-4B84-A265-33898C7B7F2A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.GettingaContactList", "GettingaContactList\Act.Samples.GettingaContactList.csproj", "{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingExamples", "BindingExamples\BindingExamples.csproj", "{B7CF865B-3716-4531-96B6-51F48821AFC6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.CodeSamples", "CodeSamples\Act.CodeSamples.csproj", "{C8E65279-9197-4638-A61A-0BAF50DFE561}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Allgemein", "Allgemein", "{8BCFC1E9-B03E-46B1-93BB-8F6ABEE1C082}"
 	ProjectSection(SolutionItems) = preProject
@@ -23,15 +13,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Allgemein", "Allgemein", "{
 		test.runsettings = test.runsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.CustomEntitiesSamples", "CustomEntitiesSamples\IBLeier.CustomEntitiesSamples.csproj", "{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{43DABB92-F5C1-47BB-B523-B53411D74083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.Tests", "Act.Samples.Tests\Act.Samples.Tests.csproj", "{8C36A478-6A3C-4C32-B37A-25EAC9618713}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.Tests", "Tests\Act.Samples.Tests\Act.Samples.Tests.csproj", "{8C36A478-6A3C-4C32-B37A-25EAC9618713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.CustomEntitiesSamples.Tests", "IBLeier.CustomEntitiesSamples.Tests\IBLeier.CustomEntitiesSamples.Tests.csproj", "{B78008C6-35D6-40CD-85AE-91F882814743}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.BindingExamples.Tests", "Tests\IBLeier.BindingExamples.Tests\IBLeier.BindingExamples.Tests.csproj", "{622FA71E-E491-4495-A29D-7D0ED9E179E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.BindingExamples.Tests", "IBLeier.BindingExamples.Tests\IBLeier.BindingExamples.Tests.csproj", "{622FA71E-E491-4495-A29D-7D0ED9E179E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.CustomEntitiesSamples.Tests", "Tests\IBLeier.CustomEntitiesSamples.Tests\IBLeier.CustomEntitiesSamples.Tests.csproj", "{B78008C6-35D6-40CD-85AE-91F882814743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.CodeSamples", "Act.CodeSamples\Act.CodeSamples.csproj", "{C8E65279-9197-4638-A61A-0BAF50DFE561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.ContactNameControl", "Act.Samples.ContactNameControl\Act.Samples.ContactNameControl.csproj", "{B78F4ECB-5016-4C50-8282-20E064C10199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.CustomMenuPlugin", "Act.Samples.CustomMenuPlugin\Act.Samples.CustomMenuPlugin.csproj", "{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.GettingaContactList", "Act.Samples.GettingaContactList\Act.Samples.GettingaContactList.csproj", "{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act.Samples.UsingFrameworkMetadata", "Act.Samples.UsingFrameworkMetadata\Act.Samples.UsingFrameworkMetadata.csproj", "{798C547E-708F-4B84-A265-33898C7B7F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBLeier.CustomEntitiesSamples", "IBLeier.CustomEntitiesSamples\IBLeier.CustomEntitiesSamples.csproj", "{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +39,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78008C6-35D6-40CD-85AE-91F882814743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78008C6-35D6-40CD-85AE-91F882814743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78008C6-35D6-40CD-85AE-91F882814743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78008C6-35D6-40CD-85AE-91F882814743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B78F4ECB-5016-4C50-8282-20E064C10199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B78F4ECB-5016-4C50-8282-20E064C10199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78F4ECB-5016-4C50-8282-20E064C10199}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -47,46 +67,26 @@ Global
 		{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5E51A9F-097A-4987-A3EE-C73E327EC1C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{798C547E-708F-4B84-A265-33898C7B7F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{798C547E-708F-4B84-A265-33898C7B7F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{798C547E-708F-4B84-A265-33898C7B7F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{798C547E-708F-4B84-A265-33898C7B7F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAEA4A74-D4F2-46CD-BA5B-8C035B65E78E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7CF865B-3716-4531-96B6-51F48821AFC6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8E65279-9197-4638-A61A-0BAF50DFE561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798C547E-708F-4B84-A265-33898C7B7F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798C547E-708F-4B84-A265-33898C7B7F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798C547E-708F-4B84-A265-33898C7B7F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798C547E-708F-4B84-A265-33898C7B7F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFDDDFE5-E306-490C-A48B-1C22DAFABF70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C36A478-6A3C-4C32-B37A-25EAC9618713}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B78008C6-35D6-40CD-85AE-91F882814743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B78008C6-35D6-40CD-85AE-91F882814743}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B78008C6-35D6-40CD-85AE-91F882814743}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B78008C6-35D6-40CD-85AE-91F882814743}.Release|Any CPU.Build.0 = Release|Any CPU
-		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{622FA71E-E491-4495-A29D-7D0ED9E179E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8C36A478-6A3C-4C32-B37A-25EAC9618713} = {43DABB92-F5C1-47BB-B523-B53411D74083}
-		{B78008C6-35D6-40CD-85AE-91F882814743} = {43DABB92-F5C1-47BB-B523-B53411D74083}
 		{622FA71E-E491-4495-A29D-7D0ED9E179E6} = {43DABB92-F5C1-47BB-B523-B53411D74083}
+		{B78008C6-35D6-40CD-85AE-91F882814743} = {43DABB92-F5C1-47BB-B523-B53411D74083}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0FED069B-470C-4A6B-8886-923A79D62342}
@@ -97,35 +97,35 @@ Global
 		SccProjectUniqueName1 = BindingExamples\\BindingExamples.csproj
 		SccLocalPath1 = .
 		SccProjectFilePathRelativizedFromConnection1 = BindingExamples\\
-		SccProjectUniqueName2 = CodeSamples\\Act.CodeSamples.csproj
+		SccProjectUniqueName2 = Tests\\Act.Samples.Tests\\Act.Samples.Tests.csproj
+		SccProjectTopLevelParentUniqueName2 = Act.Samples.sln
 		SccLocalPath2 = .
-		SccProjectFilePathRelativizedFromConnection2 = CodeSamples\\
-		SccProjectUniqueName3 = ContactNameControl\\Act.Samples.ContactNameControl.csproj
+		SccProjectFilePathRelativizedFromConnection2 = Tests\\Act.Samples.Tests\\
+		SccProjectUniqueName3 = Tests\\IBLeier.BindingExamples.Tests\\IBLeier.BindingExamples.Tests.csproj
+		SccProjectTopLevelParentUniqueName3 = Act.Samples.sln
 		SccLocalPath3 = .
-		SccProjectFilePathRelativizedFromConnection3 = ContactNameControl\\
-		SccProjectUniqueName4 = CustomEntitiesSamples\\IBLeier.CustomEntitiesSamples.csproj
+		SccProjectFilePathRelativizedFromConnection3 = Tests\\IBLeier.BindingExamples.Tests\\
+		SccProjectUniqueName4 = Tests\\IBLeier.CustomEntitiesSamples.Tests\\IBLeier.CustomEntitiesSamples.Tests.csproj
+		SccProjectTopLevelParentUniqueName4 = Act.Samples.sln
 		SccLocalPath4 = .
-		SccProjectFilePathRelativizedFromConnection4 = CustomEntitiesSamples\\
-		SccProjectUniqueName5 = CustomMenuPlugin\\Act.Samples.CustomMenuPlugin.csproj
+		SccProjectFilePathRelativizedFromConnection4 = Tests\\IBLeier.CustomEntitiesSamples.Tests\\
+		SccProjectUniqueName5 = Act.CodeSamples\\Act.CodeSamples.csproj
 		SccLocalPath5 = .
-		SccProjectFilePathRelativizedFromConnection5 = CustomMenuPlugin\\
-		SccProjectUniqueName6 = GettingaContactList\\Act.Samples.GettingaContactList.csproj
+		SccProjectFilePathRelativizedFromConnection5 = Act.CodeSamples\\
+		SccProjectUniqueName6 = Act.Samples.ContactNameControl\\Act.Samples.ContactNameControl.csproj
 		SccLocalPath6 = .
-		SccProjectFilePathRelativizedFromConnection6 = GettingaContactList\\
-		SccProjectUniqueName7 = UsingFrameworkMetadata\\Act.Samples.UsingFrameworkMetadata.csproj
+		SccProjectFilePathRelativizedFromConnection6 = Act.Samples.ContactNameControl\\
+		SccProjectUniqueName7 = Act.Samples.CustomMenuPlugin\\Act.Samples.CustomMenuPlugin.csproj
 		SccLocalPath7 = .
-		SccProjectFilePathRelativizedFromConnection7 = UsingFrameworkMetadata\\
-		SccProjectUniqueName8 = Act.Samples.Tests\\Act.Samples.Tests.csproj
-		SccProjectTopLevelParentUniqueName8 = Act.Samples.sln
+		SccProjectFilePathRelativizedFromConnection7 = Act.Samples.CustomMenuPlugin\\
+		SccProjectUniqueName8 = Act.Samples.GettingaContactList\\Act.Samples.GettingaContactList.csproj
 		SccLocalPath8 = .
-		SccProjectFilePathRelativizedFromConnection8 = Act.Samples.Tests\\
-		SccProjectUniqueName9 = IBLeier.CustomEntitiesSamples.Tests\\IBLeier.CustomEntitiesSamples.Tests.csproj
-		SccProjectTopLevelParentUniqueName9 = Act.Samples.sln
+		SccProjectFilePathRelativizedFromConnection8 = Act.Samples.GettingaContactList\\
+		SccProjectUniqueName9 = Act.Samples.UsingFrameworkMetadata\\Act.Samples.UsingFrameworkMetadata.csproj
 		SccLocalPath9 = .
-		SccProjectFilePathRelativizedFromConnection9 = IBLeier.CustomEntitiesSamples.Tests\\
-		SccProjectUniqueName10 = IBLeier.BindingExamples.Tests\\IBLeier.BindingExamples.Tests.csproj
-		SccProjectTopLevelParentUniqueName10 = Act.Samples.sln
+		SccProjectFilePathRelativizedFromConnection9 = Act.Samples.UsingFrameworkMetadata\\
+		SccProjectUniqueName10 = IBLeier.CustomEntitiesSamples\\IBLeier.CustomEntitiesSamples.csproj
 		SccLocalPath10 = .
-		SccProjectFilePathRelativizedFromConnection10 = IBLeier.BindingExamples.Tests\\
+		SccProjectFilePathRelativizedFromConnection10 = IBLeier.CustomEntitiesSamples\\
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,39 @@
+﻿25.05.2019
+- Projekte umbenannt
+
+27.08.2018
+
+20.08.2018
+- weitere Beispiele
+
+19.08.2018
+- release IBLeier.Act.AufgabePlugin 1.0.0
+
+18.08.2018
+- optimierung
+
+17.08.2018
+- Plugin fertig
+
+16.08.2018
+
+
+15.08.2018
+
+
+14.08.2018
+- UsingFrameworkMetadataTests
+- GettingaContactListTests
+
+13.08.2018
+- Using Framework Metadata
+- Getting a Contact List
+- UnitTestProject1
+
+12.08.2018
+- verweise aus C:\Windows\Microsoft.NET\assembly\GAC_MSIL
+- Act.Samples.CustomMenuPlugin hinzugefügt
+
+10.08.2018
+- projekt erstellt
+- Act.Samples.ContactNameControl hinzugefügt
